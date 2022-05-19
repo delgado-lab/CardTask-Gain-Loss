@@ -25,9 +25,9 @@ Structured for one 9min 20s scan (does not include practice trials)
 Event Timing (each trial) -
 
 1. Input guess 2s
-2. Inter-stimulus-interval 24s (50%50%)
-3. Outcome RewardPunishment (50%50%), or &quot;no response&quot; on missed response trials
-4. Inter-trial interval 68s (50%50%)
+2. Inter-stimulus-interval 2,4s (50%,50%)
+3. Outcome RewardPunishment (50%,50%), or &quot;no response&quot; on missed response trials
+4. Inter-trial interval 6,8s (50%,50%)
 
 _Trial Counts and other details_
 
